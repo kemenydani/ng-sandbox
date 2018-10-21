@@ -39,4 +39,4 @@ testem.log
 Thumbs.db
 ng-sandbox.iml
 
-package-lock.json
+/package-lock.json
